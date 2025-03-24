@@ -1,0 +1,1 @@
+# Human-Activity-Recognition-HAR-Using-Smartphone-Sensor-Data

@@ -42,11 +42,6 @@ Remove Duplicates
 📌 Final Processed Dataset: UCI_preprocessed.csv  
 
 ---
-
-Sure, based on the notebook content and the example provided, here is a similar summary for the Exploratory Data Analysis (EDA) Insights:
-
-
-
 ## 📌 Exploratory Data Analysis (EDA) Insights  
 
 

@@ -148,19 +148,16 @@ Activity
 
 📂 HAR_Project  
  ┣ 📂 data  
- ┃ ┣ raw_data.csv  
- ┃ ┣ cleaned_data.csv  
+ ┃ ┣ UCI.csv  
+ ┃ ┣ UCI_preprocessed.csv  
  ┣ 📂 notebooks  
- ┃ ┣ 01_EDA.ipynb  
- ┃ ┣ 02_Preprocessing.ipynb  
- ┃ ┣ 03_Modeling.ipynb  
+ ┃ ┣ 01_VisualizationAndStorytelling.ipynb  
+ ┃ ┣ 02_data_analysis.ipynb  
+ ┃ ┣ 03_model_training.ipynb  
+ ┃ ┣ 03_.Preprocessingipynb
  ┣ 📂 scripts  
- ┃ ┣ preprocessing.py  
- ┃ ┣ train_model.py  
- ┃ ┣ evaluate_model.py  
- ┣ 📂 visuals  
- ┃ ┣ feature_distributions.png  
- ┃ ┣ confusion_matrix.png  
+  ┃ ┣ train_model.py  
+ ┣  📂 visuals    
  ┣ 📜 README.md  
  ┣ 📜 requirements.txt  
  ┣ 📜 final_report.pdf  

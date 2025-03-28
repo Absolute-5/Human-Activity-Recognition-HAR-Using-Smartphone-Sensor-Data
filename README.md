@@ -137,10 +137,10 @@ Activity
 
 ## 📌 Next Steps (Milestone 2: Modeling)  
 🚀 Upcoming Tasks:  
-✔ Train machine learning models (Random Forest, SVM, Neural Networks)  
-✔ Evaluate models using Accuracy, F1-score, Precision-Recall  
-✔ Optimize model performance with hyperparameter tuning  
-✔ Deploy final model for real-time activity classification  
+✔ Train machine learning models using smartphone sensor data  
+✔ Evaluate models using metrics such as Accuracy, F1-score, and Precision-Recall  
+✔ Optimize model performance through hyperparameter tuning  
+✔ Deploy the final model for real-time human activity recognition
 
 ---
 
@@ -148,16 +148,15 @@ Activity
 
 📂 HAR_Project  
  ┣ 📂 data  
- ┃ ┣ raw_data.csv  
- ┃ ┣ cleaned_data.csv  
+ ┃ ┣ UCI.csv  
+ ┃ ┣ UCI_preprocessed.csv  
  ┣ 📂 notebooks  
- ┃ ┣ 01_EDA.ipynb  
+ ┃ ┣ 01_VisualizationAndStorytelling.ipynb  
  ┃ ┣ 02_Preprocessing.ipynb  
- ┃ ┣ 03_Modeling.ipynb  
+ ┃ ┣ 03_data_analysis.ipynb  
+ ┃ ┣ 03_model_training.ipynb  
  ┣ 📂 scripts  
- ┃ ┣ preprocessing.py  
  ┃ ┣ train_model.py  
- ┃ ┣ evaluate_model.py  
  ┣ 📂 visuals  
  ┃ ┣ feature_distributions.png  
  ┃ ┣ confusion_matrix.png  
